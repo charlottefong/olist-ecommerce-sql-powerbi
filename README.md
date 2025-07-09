@@ -50,6 +50,29 @@ This Power BI dashboard was built on the SQL results. It includes two pages cove
 - Review Score Distribution & Average
 - Payment method breakdown (volume, value, installments)
 
+## 🧠 Business Insights Uncovered
+
+- 📦 **Top Product Categories**:  
+  - *"health_beauty"*, *"watch_gifts"*, and *"bed_bath_table"* generated the highest total revenue.
+
+- 🚚 **Delivery Performance**:  
+  - **Average delivery time** across all orders: **12.65 days**  
+  - *"office_furniture"* had the **longest average delivery time** at **20.79 days**
+
+- 🌍 **Regional Analysis**:  
+  - Most delivered orders came from **São Paulo (SP)** and **Rio de Janeiro (RJ)** states
+
+- 🔁 **Customer Retention**:  
+  - **3.12%** of customers placed more than one order  
+  - **Repeat customers**: 2,997 out of ~96,000 unique customers
+
+- ⏱ **Average Time Between Purchases**:  
+  - Customers waited on average **77.86 days** between orders
+
+- 💳 **Payment Insights**:  
+  - **Credit card** was the most popular method  
+  - It also contributed the highest total transaction value
+
 📷 **Preview:**
 
 | Page 1 | Page 2 |
