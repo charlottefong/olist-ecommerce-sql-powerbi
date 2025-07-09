@@ -75,11 +75,11 @@ This Power BI dashboard was built on the SQL results. It includes two pages cove
 
 📷 **Preview:**
 
-| Page 1 | Page 2 |
-|--------|--------|
-| ![Page 1](./Page%201.png) | ![Page 2](./Page%202.png) |
+### 📊 Power BI Dashboard – Page 1: Sales & Fulfillment
+![Page 1 Dashboard](./Page%201.png)
 
-The .pbix is not included due to GitHub file size limits. Please contact me to request access.
+### 👥 Page 2: Customer & Review Analysis
+![Page 2 Dashboard](./Page%202.png)
 
 ---
 
@@ -89,6 +89,14 @@ The .pbix is not included due to GitHub file size limits. Please contact me to r
 - Power BI: card KPIs, bar/column charts, dual-axis visuals
 - DAX: calculated columns & measures (e.g., delivery days, repeat rate)
 - Data storytelling & business insight communication
+
+## ▶️ How to Run This Project
+
+1. Import the Olist eCommerce CSVs into PostgreSQL using pgAdmin
+2. Run `SQL_queries.sql` step by step to explore each business question and generate insights
+
+> ⚠️ Power BI `.pbix` file is not included in this repository due to file size limits.
+> Please refer to the screenshots above for a preview of the final dashboard layout and insights.
 
 ---
 
