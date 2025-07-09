@@ -56,7 +56,7 @@ This Power BI dashboard was built on the SQL results. It includes two pages cove
 |--------|--------|
 | ![Page 1](./Page%201.png) | ![Page 2](./Page%202.png) |
 
-📁 **.pbix dashboard file** also included: `Olist_Dashboard.pbix`
+The .pbix is not included due to GitHub file size limits. Please contact me to request access.
 
 ---
 
@@ -71,5 +71,5 @@ This Power BI dashboard was built on the SQL results. It includes two pages cove
 
 ## 📬 Contact
 
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/charlotte-fong-95799a1b1)  
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/charlotte-fong-95799a1b1) or hoisumfong@gmail.com  
 Portfolio powered by SQL + Power BI 🚀
